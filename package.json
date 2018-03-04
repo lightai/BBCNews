@@ -1,0 +1,18 @@
+{
+  "name": "BBCNews",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "htmlparser": "^1.7.7",
+    "moment": "^2.11.1",
+    "react": "16.2.0",
+    "react-native": "0.53.3",
+    "react-native-angular-activity-indicator": "0.0.3",
+    "react-native-linear-gradient": "^1.4.0",
+    "react-native-navigation": "^1.1.393",
+    "react-native-video": "git://github.com/react-native-community/react-native-video.git#master"
+  }
+}
