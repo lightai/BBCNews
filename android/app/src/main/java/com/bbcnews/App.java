@@ -15,7 +15,7 @@ import java.util.List;
  * Created by hzwangpeng2015 on 2018/2/28.
  */
 public class App extends NavigationApplication implements ReactApplication {
-    int a = 4;
+    int a = 5;
     @Override
     public ReactNativeHost getReactNativeHost() {
         return new ReactNativeHost(this) {
